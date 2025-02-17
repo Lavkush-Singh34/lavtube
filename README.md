@@ -132,8 +132,9 @@ done < "$ORDER_FILE"
 
 ---
 
-### 💡 Contributions & Support
+### 💡 Contributions & Support for our Project
 Feel free to contribute or suggest improvements via **Pull Requests** or **Issues**!
 
 📩 **Contact:** Lavkush Singh
+
 
